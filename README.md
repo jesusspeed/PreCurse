@@ -1,2 +1,1 @@
-# PreCurse
-Este es un repositorio de prueba del modulo II del precurse de Henry
+Este proyecto es una prueba de como crear un repositorio desde github
